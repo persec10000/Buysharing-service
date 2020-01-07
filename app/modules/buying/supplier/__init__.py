@@ -1,0 +1,1 @@
+from .view_supplier import api as ns_supplier

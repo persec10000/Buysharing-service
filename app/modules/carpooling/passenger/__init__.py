@@ -1,0 +1,1 @@
+from .view_passenger import api as ns_passenger
